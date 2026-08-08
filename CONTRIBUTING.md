@@ -31,7 +31,7 @@ Note, follow the format of existing plan details if you are unsure what to add.
   "version": 1,
   "name": "{provider} - {plan} - {state} - {dnsp} - {start_date}",
   "provider": "{provider}",
-  "plan": "{plan}",**
+  "plan": "{plan}",
   "state": "{state}",
   "dnsp": "{dnsp}",
   "effective_from": "{start_date1",

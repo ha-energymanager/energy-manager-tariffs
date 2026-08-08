@@ -14,6 +14,16 @@
       "source_checked": "2026-08-06"
     },
     {
+      "label": "GloBird - FOUR4FREE - NSW - Essential Energy - 2026-07-01",
+      "file": "GloBird-FOUR4FREE-NSW-EssentialEnergy-20260701.json",
+      "provider": "GloBird",
+      "plan": "FOUR4FREE",
+      "state": "NSW",
+      "dnsp": "EssentialEnergy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-08"
+    },
+    {
       "label": "GloBird - SOLARPLUS Flexible - QLD - Energex - 2026-07-23",
       "file": "GloBird-SOLARPLUSFlexible-QLD-Energex-20260723.json",
       "provider": "GloBird",
@@ -78,6 +88,16 @@
       "file": "Covau-BasicsTOU-NSW-EssentialEnergy-20260701.json",
       "provider": "Covau",
       "plan": "Basics Residential TOU",
+      "state": "NSW",
+      "dnsp": "Essential Energy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - SolarMax TOU - NSW - Essential Energy - 2026-07-01",
+      "file": "Covau-SolarMaxTOU-NSW-EssentialEnergy-20260701.json",
+      "provider": "Covau",
+      "plan": "SolarMax Residential TOU",
       "state": "NSW",
       "dnsp": "Essential Energy",
       "effective_from": "2026-07-01",
