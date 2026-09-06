@@ -7,7 +7,7 @@
   "state": "QLD",
   "dnsp": "Energex",
   "effective_from": "2026-07-01",
-  "source_checked": "2026-08-07", 
+  "source_checked": "2026-09-06", 
   "entities": {
     "input_number.other_peak_tariff": 0.45386,
     "input_number.other_offpeak_tariff": 0.06633,
@@ -19,7 +19,7 @@
     "input_number.other_shoulder_2_battery_restrict_under": 0,
     "input_number.other_shoulder_3_battery_restrict_under": 0,
     "input_number.other_additional_tariff": 0.08,
-    "input_number.other_export_1_tariff": 0.022,
+    "input_number.other_export_1_tariff": 0.02,
     "input_number.other_export_2_tariff": 0,
     "input_number.other_export_3_tariff": 0,
     "input_number.other_export_1_kwh": 0,
