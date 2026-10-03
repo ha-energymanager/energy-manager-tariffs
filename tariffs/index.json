@@ -162,6 +162,16 @@
       "dnsp": "Endeavour",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-10"
+    },
+    {
+      "label": "Solstice Energy - Solstice Circle - TAS - TasNetworks - 2026-10-03",
+      "file": "SolsticeEnergy-SolsticeCircle-TAS-TasNetworks-20261003.json",
+      "provider": "Solstice Energy",
+      "plan": "Solstice Circl",
+      "state": "TAS",
+      "dnsp": "TasNetworks",
+      "effective_from": "2026-10-03",
+      "source_checked": "2026-10-03"
     }
   ]
 }
